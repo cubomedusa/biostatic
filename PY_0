@@ -1,1 +1,27 @@
 
+>>> import turtle               # import:cmnds- как обозначаются все команды, классы,..                                         
+>>> t= turtle.Pen()             # () empty bracket                                       
+>>> wt=turtle.Screen()
+>>> t.up()                      #t.up , t.down
+>>> t.width(5) 
+>>> t.color('black','red')
+>>> wt.setup(700,700,300)
+>>>
+
+    wt.setup(715,695,300)
+>>> t.goto(203,119)
+>>> t.down()
+>>> t.goto(203,19)
+>>> t.up()
+>>> t.goto(203,119)
+>>> t.goto(203,150)
+>>> t.goto(203,140)
+>>> t.goto(203,120)
+>>> t.down()
+>>> t.goto(50,119)
+>>> t.goto(10,119)
+>>> t.goto(-50,119)
+>>> t.goto(-50,20)
+>>> t.goto(-50,80)
+>>> t.goto(-50,0)
+>>> t.goto(-50,150)
