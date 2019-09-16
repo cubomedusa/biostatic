@@ -1,4 +1,5 @@
 
+# drawing
 >>> import turtle               # import:cmnds- как обозначаются все команды, классы,..                                         
 >>> t= turtle.Pen()             # () empty bracket                                       
 >>> wt=turtle.Screen()
@@ -7,7 +8,6 @@
 >>> t.color('black','red')
 >>> wt.setup(700,700,300)
 >>>
-
     wt.setup(715,695,300)
 >>> t.goto(203,119)
 >>> t.down()
@@ -25,3 +25,12 @@
 >>> t.goto(-50,80)
 >>> t.goto(-50,0)
 >>> t.goto(-50,150)
+
+##extend, append functions
+
+>>> a2 = [3, 5, 7]
+>>> b2 = [8, 10]
+>>> a2.extend(b2)
+>>> print(a2)
+[3, 5, 7, 8, 10]        
+# then try : if else / for  
