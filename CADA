@@ -1,2 +1,8 @@
-CADA
-CADA
+CAT Automation Tool Structure
+
+Generate new Part numbers via EXCEL
+Load instances #manualy 
+copy -> paste special-break link                                                    #CATIA intagreated script cmd 
+reneme IRM and CARM according to EXCEL file (or other contained part numbers list) #CATIA intagreated script cmd 
+Save to Data Base                                                                   #manualy
+end
