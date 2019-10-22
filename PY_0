@@ -4,7 +4,7 @@
 >>> t= turtle.Pen()             # () empty bracket                                       
 >>> wt=turtle.Screen()
 >>> t.up()                      #t.up , t.down
->>> t.width(5) 
+>>> t.width(5)                      
 >>> t.color('black','red')
 >>> wt.setup(700,700,300)
 >>>
@@ -34,3 +34,10 @@
 >>> print(a2)
 [3, 5, 7, 8, 10]        
 # then try : if else / for  
+# Глава 1. Python в вопросах и ответах
+# 10.22.2019
+# многократного использования программного код ?
+#
+#
+#
+#
